@@ -1,1 +1,1 @@
-# ABtest_nonparametric-test
+# ABtest_proportions_z_test
